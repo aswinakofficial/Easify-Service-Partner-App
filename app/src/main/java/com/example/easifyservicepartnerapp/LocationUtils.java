@@ -15,7 +15,7 @@ import com.google.gson.JsonParser;
 
 
 public class LocationUtils {
-    private static final String API_KEY = "AIzaSyAds3AXfOtH_54LE7GgVNkd82ez7llLVBc";
+    private static final String API_KEY = "YOUR_API_KEY";
 
     public static String getLocationName(LatLngWrapper latLng) {
         try {
